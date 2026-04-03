@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: *.protection.outlook.com
-max_age: 604800
+mx: knitsec-com.mail.protection.outlook.com
+max_age: 2419200
